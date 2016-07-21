@@ -50,13 +50,13 @@ $contacts = $db->all();
             PHP-Apache-Mysql-Sample 示例
         </h1>
         <table class="table">
-            <caption>通讯录</caption>
+            <caption>contact</caption>
             <thead>
             <tr>
-                <th>#</th>
-                <th>姓名</th>
-                <th>邮箱</th>
-                <th>操作</th>
+                <th>number</th>
+                <th>name</th>
+                <th>mail</th>
+                <th>action</th>
             </tr>
             </thead>
             <tbody>
