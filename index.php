@@ -82,7 +82,7 @@ $contacts = $db->all();
                     <input type="text" name="name" class="form-control" id="name" placeholder="姓名">
                 </div>
                 <div class="form-group">
-                    <label for="phone">号码</label>
+                    <label for="phone">邮箱</label></label>
                     <input type="text" name="phone" class="form-control" id="phone" placeholder="号码">
                 </div>
                 <button type="submit" class="btn btn-success">新增</button>
